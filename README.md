@@ -19,6 +19,8 @@ is not affiliated with or endorsed by SpaceX.*
 
 More specifically, the launch records are stored in a HTML table shown below:
 
+![Falcon9 table](assets/images/table_.png).
+
 
 
 
