@@ -17,5 +17,9 @@ Several examples of an unsuccessful landing are shown here:
 web resources and are included for educational purposes only. This project
 is not affiliated with or endorsed by SpaceX.*
 
+More specifically, the launch records are stored in a HTML table shown below:
+
+
+
 
 
