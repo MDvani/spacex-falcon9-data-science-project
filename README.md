@@ -13,4 +13,9 @@ Several examples of an unsuccessful landing are shown here:
 
 ![Falcon 9 Landing Failure](assets/images/failure_video.gif)
 
+*Disclaimer: Images used in this project are sourced from publicly available
+web resources and are included for educational purposes only. This project
+is not affiliated with or endorsed by SpaceX.*
+
+
 
