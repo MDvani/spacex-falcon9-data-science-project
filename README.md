@@ -1,5 +1,10 @@
-# spacex-falcon9-data-science-project
-This project demonstrates an end-to-end data science workflow using publicly available SpaceX Falcon 9 launch data. The project includes web scraping, data cleaning, exploratory data analysis (EDA), machine learning modeling, and dashboard creation to analyze launch outcomes and predict first-stage landing success.
+# 🚀 SpaceX Falcon 9 First-Stage Landing Prediction
+
+## 📌 Project Overview
+This project predicts whether the **Falcon 9 first-stage booster will land successfully**. Booster reusability is a major reason behind SpaceX’s lower launch costs compared to other providers. By predicting landing success, we can estimate launch costs and support competitive bidding strategies.
+
+![Falcon 9 Heading slide](assets/images/heading.png)
+
 
 ![Falcon 9 Rocket Diagram](assets/images/rocket_image.svg)
 
@@ -20,6 +25,47 @@ is not affiliated with or endorsed by SpaceX.*
 More specifically, the launch records are stored in a HTML table shown below:
 
 ![Falcon9 table](assets/images/table_.png).
+
+
+---
+
+## 🎯 Objective
+Build a **classification model** to predict Falcon 9 first-stage landing success using historical launch data.
+
+---
+
+## 📊 Data Sources
+- SpaceX Wikipedia  
+- SpaceX Public APIs  
+
+The dataset was cleaned, filtered to include **only Falcon 9 launches**, and a **binary target variable** (successful / unsuccessful landing) was created.
+
+---
+
+## 🛠️ Tools & Technologies
+Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Folium, Plotly Dash, Jupyter Notebook,Folium
+
+---
+
+## 🔍 Workflow
+Data Collection → Data Wrangling → EDA → Geospatial Analysis → Modeling → Evaluation → Results
+
+---
+
+## 🤖 Models Used
+- Logistic Regression  
+- Decision Tree  
+- Random Forest
+- SVM
+- KNN 
+
+
+
+---
+
+## 🧑‍💻 Author
+**Durga Vani Moka**  
+IBM Data Science Professional Certificate – Capstone Project
 
 
 
